@@ -17,8 +17,8 @@ Below is a preview showcasing some features :
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
-        <p>Sale Comparison</p>
-             <img src="scr/image.png" alt="Middle" width="90%"/>
+        <p>App</p>
+             <img src="https://raw.githubusercontent.com/bambadij/Predictive_compains_phone_banking/refs/heads/main/fastapi.JPG" alt="Middle" width="90%"/>
     </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Age Distribution</p>
