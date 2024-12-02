@@ -17,7 +17,7 @@ Below is a preview showcasing some features :
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
-        <p>Sale Comparison</p>
+        <p>Banking</p>
              <img src="scr/image.png" alt="Middle" width="90%"/>
     </div>
     <div style="flex: 33.33%; text-align: center;">
