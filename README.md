@@ -17,12 +17,12 @@ Below is a preview showcasing some features :
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
-        <p>Banking</p>
+        <p>Sale Comparison</p>
              <img src="scr/image.png" alt="Middle" width="90%"/>
     </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Age Distribution</p>
-             <img src="https://raw.githubusercontent.com/bambadij/Predictive_compains_phone_banking/refs/heads/main/Capture.JPG" alt="Top" width="90%"/>
+             <img src="[https://github.com/bambadij/sales_data_collected_2019/blob/main/scr/month1.png](https://raw.githubusercontent.com/bambadij/Predictive_compains_phone_banking/refs/heads/main/Capture.JPG)" alt="Top" width="90%"/>
         </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Age Distribution</p>
@@ -32,9 +32,8 @@ Below is a preview showcasing some features :
 
 </div>
 
-## Resources
-
-- [Tutorial - User Guide](https://www.youtube.com/watch?v=PmAOZRnfqBU)
+## Deployment Hugging Face 
+[APP FASTAPI](https://bambadij-summaryt5.hf.space/docs#/default/generate_text_generate__post)
   
 
 ## Author
