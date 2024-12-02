@@ -22,7 +22,7 @@ Below is a preview showcasing some features :
     </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Age Distribution</p>
-             <img src="[https://github.com/bambadij/sales_data_collected_2019/blob/main/scr/month1.png](https://raw.githubusercontent.com/bambadij/Predictive_compains_phone_banking/refs/heads/main/Capture.JPG)" alt="Top" width="90%"/>
+             <img src="https://raw.githubusercontent.com/bambadij/Predictive_compains_phone_banking/refs/heads/main/Capture.JPG" alt="Top" width="90%"/>
         </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Age Distribution</p>
