@@ -37,4 +37,4 @@ Below is a preview showcasing some features :
   
 
 ## Author
-[Bambo Traore](https://www.linkedin.com/in/traore-bamba/)
+[Bambo Traore](https://www.linkedin.com/in/traore-bambo/)
